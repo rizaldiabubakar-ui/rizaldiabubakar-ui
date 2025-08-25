@@ -27,7 +27,7 @@
 
 <br>
 
-> **Catatan:** Ikon di atas menggunakan [Skill Icons](https://skillicons.dev/), sehingga tampilan lebih modern & konsisten.
+> **Catatan:** belajar banyak hal membawa saya ke dunia yang begitu luas
 
 ---
 
