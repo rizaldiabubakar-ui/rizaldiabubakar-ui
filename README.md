@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="https://tiktok.com/@bangjeey_dev" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-ff0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
+    <img src="https://img.shields.io/badge/TikTok-ff0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
 </div>
 
@@ -24,22 +24,24 @@
 
 ### 🌐 Tentang Saya
 
-- 🔭 Saya seorang **Fullstack Developer** dari Indonesia.
-- 🌱 Saat ini sedang mendalami **Serverless Framework** & **AWS Lambda**.
-- 💼 Saya bekerja sebagai pengembang web, berkontribusi pada pengembangan frontend dan backend.
-- 📫 Anda bisa menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/jeeyhosting-nugroho/) atau [Twitter](https://twitter.com/jeeyhosting)!
+- 🔭 Saya seorang **Fullstack Developer** dari Indonesia.  
+- 💼 Saat ini aktif mengembangkan project frontend & backend.  
+- 📫 Hubungi saya melalui:  
+  - 🌐 [Lynk.id/jeeyhosting](https://lynk.id/jeeyhosting)  
+  - 📱 [WhatsApp](https://wa.me/message/DS6PVPWYESDTB1)  
+  - 🎵 [TikTok](https://tiktok.com/@bangjeey_dev)  
 
 ---
 
 ### 🛠️ Keahlian & Teknologi
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,react,javascript,typescript,nodejs,aws,git,postgres,linux,docker,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,react,javascript,typescript,nodejs,git,postgres,linux,docker,graphql" />
 </div>
 
 <br>
 
-> **Catatan:** Badge di atas menggunakan [Skill Icons](https://skillicons.dev/), yang memberikan tampilan ikon yang lebih modern dan konsisten.
+> **Catatan:** Ikon di atas menggunakan [Skill Icons](https://skillicons.dev/), sehingga tampilan lebih modern & konsisten.
 
 ---
 
@@ -49,8 +51,7 @@
   <a href="https://github.com/rizaldiabubakar-ui">
     <img src="https://github-readme-stats.vercel.app/api?username=rizaldiabubakar-ui&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
-  <br>
-  <br>
+  <br><br>
   <a href="https://github.com/rizaldiabubakar-ui">
     <img src="https://streak-stats.demolab.com?user=rizaldiabubakar-ui&theme=dark" alt="GitHub Streak"/>
   </a>
