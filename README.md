@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://github.com/rizaldiabubakar-ui">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="GIF Header"/>
+  </a>
+  <h1 align="center">Halo, Saya Jeeyhosting! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
+  <p>Seorang Pengembang Web yang suka coding, kopi, dan Linux.</p>
+</div>
 
-<!--
-**rizaldiabubakar-ui/rizaldiabubakar-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://lynk.id/jeeyhosting" target="_blank">
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=linktree&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://wa.me/message/DS6PVPWYESDTB1" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <a href="https://tiktok.com/@bangjeey_dev" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-ff0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Tentang Saya
+
+- 🔭 Saya seorang **Fullstack Developer** dari Indonesia.
+- 🌱 Saat ini sedang mendalami **Serverless Framework** & **AWS Lambda**.
+- 💼 Saya bekerja sebagai pengembang web, berkontribusi pada pengembangan frontend dan backend.
+- 📫 Anda bisa menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/jeeyhosting-nugroho/) atau [Twitter](https://twitter.com/jeeyhosting)!
+
+---
+
+### 🛠️ Keahlian & Teknologi
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,react,javascript,typescript,nodejs,aws,git,postgres,linux,docker,graphql" />
+</div>
+
+<br>
+
+> **Catatan:** Badge di atas menggunakan [Skill Icons](https://skillicons.dev/), yang memberikan tampilan ikon yang lebih modern dan konsisten.
+
+---
+
+### 📊 Statistik GitHub
+
+<div align="center">
+  <a href="https://github.com/rizaldiabubakar-ui">
+    <img src="https://github-readme-stats.vercel.app/api?username=rizaldiabubakar-ui&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/rizaldiabubakar-ui">
+    <img src="https://streak-stats.demolab.com?user=rizaldiabubakar-ui&theme=dark" alt="GitHub Streak"/>
+  </a>
+</div>
