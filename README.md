@@ -8,23 +8,9 @@
 
 ---
 
-<div align="center">
-  <a href="https://lynk.id/jeeyhosting" target="_blank">
-    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=linktree&logoColor=white" alt="Website Badge"/>
-  </a>
-  <a href="https://wa.me/message/DS6PVPWYESDTB1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
-  <a href="https://tiktok.com/@bangjeey_dev" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-ff0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
-  </a>
-</div>
-
----
-
 ### 🌐 Tentang Saya
 
-- 🔭 Saya seorang **Fullstack Developer** dari Indonesia.
+- 🔭 Saya seorang **Fullstack Developer** dari Indonesia🇮🇩.
 - 🌱 Saat ini sedang mendalami **Serverless Framework** & **AWS Lambda**.
 - 💼 Saya bekerja sebagai pengembang web, berkontribusi pada pengembangan frontend dan backend.
 - 📫 Anda bisa menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/jeeyhosting-nugroho/) atau [Twitter](https://twitter.com/jeeyhosting)!
